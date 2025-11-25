@@ -112,13 +112,12 @@ The dashboard focuses on a single high-quality visualization for clarity and imp
 ## 📁 Repository Structure
 ```
 .
-├── data
+├── Data
 │   ├── maryland_teen_health_raw.xlsx
 │   └── maryland_teen_health_index_export.csv
-├── r
+├── R
 │   └── teen_health_index.R
-├── tableau
-│   └── teen_health_dashboard.twbx
+├── Case Study for Teen Health Risk Index.pdf
 └── README.md
 ```
 ## 🧠 Skills Demonstrated
