@@ -14,6 +14,19 @@ All data used is fully **synthetic** and suitable for public sharing.
 
 ---
 
+## 🌐 Live Interactive Map
+
+**View the published Tableau map here:**  
+👉 [Teen Health Risk Index — Maryland Counties Map](https://public.tableau.com/app/profile/victoria.de.los.santos/viz/MarylandTeenHealthRiskIndexSyntheticData/Dashboard1?publish=yes)
+
+The interactive map shows:
+- Teen Health Risk Index values  
+- Quintile classifications  
+- A stepped sequential color scale  
+- Hover tooltips with county-level indicator breakdowns  
+
+---
+
 ## 🛠 Tools Used  
 - **R** (tidyverse)  
 - **Excel**  
